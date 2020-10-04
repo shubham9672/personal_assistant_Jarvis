@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/harshnandwana/personal_assistant_Jarvis)
+
 # personal_assistant_Jarvis
  a personal bot capable of conveying news,weather,information from wkipedia and many more things
  this bot is capable of delivering news, weather of your city, summary from wikipedia and many more things are under progress.
